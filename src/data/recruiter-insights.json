@@ -1,0 +1,47 @@
+{
+  "resumeId": "resume-sample-001",
+  "overall": {
+    "score": 78,
+    "label": "Recruiter-ready with refinements",
+    "level": "good"
+  },
+  "signals": [
+    {
+      "id": "signal-001",
+      "label": "Leadership signal",
+      "score": 68,
+      "status": "moderate",
+      "evidence": ["Mentions partnership with product and design"]
+    },
+    {
+      "id": "signal-002",
+      "label": "Achievement strength",
+      "score": 74,
+      "status": "moderate",
+      "evidence": ["Includes one quantified outcome"]
+    },
+    {
+      "id": "signal-003",
+      "label": "Readability",
+      "score": 88,
+      "status": "strong",
+      "evidence": ["Uses concise bullets and a clear section hierarchy"]
+    },
+    {
+      "id": "signal-004",
+      "label": "Projects section",
+      "score": 58,
+      "status": "weak",
+      "evidence": ["Project descriptions need clearer outcomes and user impact"]
+    }
+  ],
+  "warnings": [
+    {
+      "id": "warn-001",
+      "title": "Add more business outcomes",
+      "description": "Recruiters scan for impact quickly; add more numbers where accurate.",
+      "priority": "warning"
+    }
+  ],
+  "actionVerbs": ["Delivered", "Built", "Partnered", "Designed", "Reduced"]
+}

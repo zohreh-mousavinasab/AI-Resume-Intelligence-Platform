@@ -1,0 +1,64 @@
+{
+  "id": "resume-sample-001",
+  "title": "Frontend Product Engineer Resume",
+  "personalInfo": {
+    "fullName": "Alex Morgan",
+    "headline": "Product-minded frontend engineer",
+    "email": "alex@example.com",
+    "phone": "+1 555 0142",
+    "location": "Austin, TX",
+    "website": "alexmorgan.dev"
+  },
+  "summary": "Frontend engineer focused on accessible product workflows, structured editing systems, and AI-assisted user experiences.",
+  "skills": ["React", "TypeScript", "Tailwind CSS", "Design Systems", "Accessibility", "AI-assisted UX"],
+  "experience": [
+    {
+      "id": "exp-001",
+      "company": "BrightHire Labs",
+      "role": "Senior Frontend Engineer",
+      "location": "Remote",
+      "startDate": "2022-04",
+      "endDate": "Present",
+      "isCurrent": true,
+      "bullets": [
+        "Built structured editing workflows that reduced resume review time by 34%.",
+        "Partnered with product and design to ship accessible dashboards for hiring teams."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-001",
+      "institution": "State University",
+      "degree": "B.S. Computer Science",
+      "location": "Austin, TX",
+      "startDate": "2016",
+      "endDate": "2020",
+      "details": ["Graduated with honors", "Focused on human-computer interaction"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "project-001",
+      "name": "Resume Intelligence Workspace",
+      "description": "A structured resume editor with scoring and job matching surfaces.",
+      "technologies": ["React", "TypeScript", "Tailwind CSS"],
+      "bullets": ["Created JSON-driven preview rendering", "Designed ATS-friendly export structure"]
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert-001",
+      "name": "Professional Scrum Master I",
+      "issuer": "Scrum.org",
+      "date": "2023"
+    }
+  ],
+  "languages": [
+    {
+      "id": "lang-001",
+      "name": "English",
+      "proficiency": "Native"
+    }
+  ]
+}

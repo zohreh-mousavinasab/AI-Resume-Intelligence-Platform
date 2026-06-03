@@ -1,0 +1,66 @@
+{
+  "resumeId": "resume-sample-001",
+  "overall": {
+    "score": 84,
+    "label": "Strong ATS baseline",
+    "level": "good"
+  },
+  "keywordDensity": [
+    {
+      "keyword": "React",
+      "count": 5,
+      "status": "matched"
+    },
+    {
+      "keyword": "TypeScript",
+      "count": 4,
+      "status": "matched"
+    },
+    {
+      "keyword": "metrics",
+      "count": 1,
+      "status": "partial"
+    }
+  ],
+  "readability": {
+    "score": 88,
+    "label": "Clear and concise",
+    "level": "good"
+  },
+  "sectionChecks": [
+    {
+      "section": "Experience",
+      "score": 86,
+      "complete": true,
+      "notes": ["Includes measurable impact", "Could add more leadership context"]
+    },
+    {
+      "section": "Projects",
+      "score": 74,
+      "complete": true,
+      "notes": ["Relevant technologies included", "Needs stronger outcome language"]
+    }
+  ],
+  "formattingChecks": [
+    {
+      "id": "format-001",
+      "label": "Simple headings",
+      "status": "pass",
+      "detail": "Section headings are ATS-friendly."
+    },
+    {
+      "id": "format-002",
+      "label": "Bullet length",
+      "status": "warning",
+      "detail": "A few bullets can be more concise."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "rec-001",
+      "title": "Add more quantified outcomes",
+      "description": "Include metrics in at least two more experience bullets.",
+      "priority": "good"
+    }
+  ]
+}

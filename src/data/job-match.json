@@ -1,0 +1,41 @@
+{
+  "resumeId": "resume-sample-001",
+  "jobDescriptionId": "job-frontend-001",
+  "match": {
+    "score": 72,
+    "label": "Good role alignment",
+    "level": "good"
+  },
+  "keywords": [
+    {
+      "keyword": "React",
+      "count": 5,
+      "status": "matched"
+    },
+    {
+      "keyword": "accessibility",
+      "count": 2,
+      "status": "matched"
+    },
+    {
+      "keyword": "testing",
+      "count": 0,
+      "status": "missing"
+    }
+  ],
+  "missingSkills": [
+    {
+      "skill": "Frontend testing",
+      "importance": "medium",
+      "recommendation": "Add testing experience if accurate, especially with React Testing Library or Playwright."
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "job-rec-001",
+      "title": "Emphasize product collaboration",
+      "description": "The job description values cross-functional work; move product partnership into the summary.",
+      "priority": "good"
+    }
+  ]
+}

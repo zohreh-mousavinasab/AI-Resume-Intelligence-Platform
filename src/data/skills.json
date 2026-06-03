@@ -1,0 +1,32 @@
+{
+  "resumeId": "resume-sample-001",
+  "extracted": [
+    {
+      "category": "technical",
+      "skills": ["TypeScript", "Accessibility", "Frontend Architecture"]
+    },
+    {
+      "category": "frameworks",
+      "skills": ["React", "Tailwind CSS"]
+    },
+    {
+      "category": "tools",
+      "skills": ["Vite", "Codex CLI"]
+    },
+    {
+      "category": "soft",
+      "skills": ["Product Collaboration", "Communication"]
+    },
+    {
+      "category": "platforms",
+      "skills": ["Web"]
+    }
+  ],
+  "missing": [
+    {
+      "skill": "Playwright",
+      "category": "tools",
+      "reason": "Useful for frontend quality and interaction testing."
+    }
+  ]
+}

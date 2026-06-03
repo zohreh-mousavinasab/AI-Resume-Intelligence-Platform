@@ -1,0 +1,40 @@
+{
+  "resumeId": "resume-sample-001",
+  "sections": [
+    {
+      "section": "experience",
+      "score": 86,
+      "strengths": ["Includes measurable impact", "Uses active language"],
+      "weaknesses": ["Could show more leadership"],
+      "suggestions": ["Add one bullet about mentoring or technical direction if accurate"]
+    },
+    {
+      "section": "skills",
+      "score": 80,
+      "strengths": ["Relevant frontend stack"],
+      "weaknesses": ["Missing testing keywords"],
+      "suggestions": ["Add testing tools if they reflect real experience"]
+    },
+    {
+      "section": "education",
+      "score": 72,
+      "strengths": ["Clear degree information"],
+      "weaknesses": ["Limited relevance details"],
+      "suggestions": ["Keep concise unless early career"]
+    },
+    {
+      "section": "projects",
+      "score": 74,
+      "strengths": ["Relevant product concept"],
+      "weaknesses": ["Outcomes are light"],
+      "suggestions": ["Add user, performance, or adoption results"]
+    },
+    {
+      "section": "summary",
+      "score": 82,
+      "strengths": ["Focused positioning"],
+      "weaknesses": ["Could mirror target job keywords more closely"],
+      "suggestions": ["Include product collaboration and design systems keywords"]
+    }
+  ]
+}

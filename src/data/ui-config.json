@@ -1,0 +1,11 @@
+{
+  "theme": {
+    "defaultMode": "light",
+    "accentColor": "signal"
+  },
+  "templates": {
+    "resumeTemplate": "ats-clean",
+    "reportTemplate": "dashboard-summary",
+    "coverLetterTemplate": "professional-letter"
+  }
+}

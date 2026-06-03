@@ -1,0 +1,9 @@
+{
+  "id": "cover-letter-sample-001",
+  "input": {
+    "resumeId": "resume-sample-001",
+    "jobDescriptionId": "job-frontend-001",
+    "tone": "professional"
+  },
+  "contentMarkdown": "Dear Hiring Team,\n\nI am excited to apply for the Senior Frontend Engineer role. My experience building accessible React and TypeScript interfaces, structured editing workflows, and product-focused dashboards aligns closely with your needs.\n\nI would welcome the opportunity to bring clear frontend craft, thoughtful collaboration, and measurable product execution to your team.\n\nSincerely,\nAlex Morgan"
+}
